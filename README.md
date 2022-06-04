@@ -16,7 +16,7 @@ This is a discord bot that counts number of connected players/map played on your
 
 # How to configure the bot
 
-##Configuration of settings.json
+## Configuration of settings.json
 
 Grab your bot token from discord developers (https://discord.com/developers/applications) and put it here
 
