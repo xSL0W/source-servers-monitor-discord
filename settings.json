@@ -1,0 +1,9 @@
+{
+    "settings": 
+    [
+        {
+            "bot-token": "",
+            "refresh-time": 60
+        }
+    ]
+}
