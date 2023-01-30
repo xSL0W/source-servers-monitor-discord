@@ -30,7 +30,7 @@ No comments allowed, nothing else than IPs/DNS separated by a new line.
 git clone https://github.com/xSL0W/source-servers-monitor-discord
 cd source-servers-monitor-discord
 apt install python3 python3-pip
-pip3 install python-a2s discord.py
+pip3 install -r requirements.txt
 python3 main.py
 ```
 
